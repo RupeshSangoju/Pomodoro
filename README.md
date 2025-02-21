@@ -68,4 +68,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgments
 Inspired by the Pomodoro Technique.
 
-Built with ❤️ by Your Rupesh.
+Live Demo
+Check out the live demo https://pomodoro-xi-six.vercel.app/  here.
