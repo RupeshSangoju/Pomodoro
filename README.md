@@ -43,7 +43,7 @@ A simple and elegant Pomodoro Timer built with **HTML, CSS, and JavaScript**. Th
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/pomodoro-timer.git
+   git clone https://github.com/RupeshSangoju/Pomodoro.git
 2. Navigate to the project directory:
    cd pomodoro-timer
 3. Open the index.html file in your browser:
